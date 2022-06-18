@@ -1,0 +1,173 @@
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\tiket_reservation.dll.config
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\tiket_reservation.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\tiket_reservation.pdb
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\csc.exe
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\csc.exe.config
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\csc.rsp
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\csi.exe
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\csi.rsp
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\System.AppContext.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\System.Collections.Immutable.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\System.IO.FileSystem.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\System.Reflection.Metadata.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\vbc.exe
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\vbc.exe.config
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\vbc.rsp
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\VBCSCompiler.exe
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\roslyn\VBCSCompiler.exe.config
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\Antlr3.Runtime.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\Microsoft.Web.Infrastructure.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\System.Web.Helpers.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\System.Web.Optimization.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\System.Web.Razor.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\WebGrease.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\System.Web.Helpers.xml
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.xml
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\System.Web.Optimization.xml
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\System.Web.Razor.xml
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.xml
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.xml
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.xml
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.xml
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\Antlr3.Runtime.pdb
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Foto Candra\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csprojAssemblyReference.cache
+D:\Foto Candra\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csproj.CoreCompileInputs.cache
+D:\Foto Candra\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csproj.CopyComplete
+D:\Foto Candra\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.pdb
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\EntityFramework.dll
+D:\Foto Candra\tiket_reservation\tiket_reservation\bin\EntityFramework.xml
+D:\tiket_reservation\tiket_reservation\bin\tiket_reservation.dll.config
+D:\tiket_reservation\tiket_reservation\bin\tiket_reservation.dll
+D:\tiket_reservation\tiket_reservation\bin\tiket_reservation.pdb
+D:\tiket_reservation\tiket_reservation\bin\roslyn\csc.exe
+D:\tiket_reservation\tiket_reservation\bin\roslyn\csc.exe.config
+D:\tiket_reservation\tiket_reservation\bin\roslyn\csc.rsp
+D:\tiket_reservation\tiket_reservation\bin\roslyn\csi.exe
+D:\tiket_reservation\tiket_reservation\bin\roslyn\csi.rsp
+D:\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\tiket_reservation\tiket_reservation\bin\roslyn\System.AppContext.dll
+D:\tiket_reservation\tiket_reservation\bin\roslyn\System.Collections.Immutable.dll
+D:\tiket_reservation\tiket_reservation\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\tiket_reservation\tiket_reservation\bin\roslyn\System.IO.FileSystem.dll
+D:\tiket_reservation\tiket_reservation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\tiket_reservation\tiket_reservation\bin\roslyn\System.Reflection.Metadata.dll
+D:\tiket_reservation\tiket_reservation\bin\roslyn\vbc.exe
+D:\tiket_reservation\tiket_reservation\bin\roslyn\vbc.exe.config
+D:\tiket_reservation\tiket_reservation\bin\roslyn\vbc.rsp
+D:\tiket_reservation\tiket_reservation\bin\roslyn\VBCSCompiler.exe
+D:\tiket_reservation\tiket_reservation\bin\roslyn\VBCSCompiler.exe.config
+D:\tiket_reservation\tiket_reservation\bin\Antlr3.Runtime.dll
+D:\tiket_reservation\tiket_reservation\bin\EntityFramework.dll
+D:\tiket_reservation\tiket_reservation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\tiket_reservation\tiket_reservation\bin\Microsoft.Web.Infrastructure.dll
+D:\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.dll
+D:\tiket_reservation\tiket_reservation\bin\System.Web.Helpers.dll
+D:\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.dll
+D:\tiket_reservation\tiket_reservation\bin\System.Web.Optimization.dll
+D:\tiket_reservation\tiket_reservation\bin\System.Web.Razor.dll
+D:\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.dll
+D:\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.dll
+D:\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.dll
+D:\tiket_reservation\tiket_reservation\bin\WebGrease.dll
+D:\tiket_reservation\tiket_reservation\bin\EntityFramework.xml
+D:\tiket_reservation\tiket_reservation\bin\System.Web.Helpers.xml
+D:\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.xml
+D:\tiket_reservation\tiket_reservation\bin\System.Web.Optimization.xml
+D:\tiket_reservation\tiket_reservation\bin\System.Web.Razor.xml
+D:\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.xml
+D:\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.xml
+D:\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.xml
+D:\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.xml
+D:\tiket_reservation\tiket_reservation\bin\Antlr3.Runtime.pdb
+D:\tiket_reservation\tiket_reservation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csprojAssemblyReference.cache
+D:\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csproj.CoreCompileInputs.cache
+D:\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csproj.CopyComplete
+D:\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.dll
+D:\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.pdb
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\tiket_reservation.dll.config
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\tiket_reservation.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\tiket_reservation.pdb
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\csc.exe
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\csc.exe.config
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\csc.rsp
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\csi.exe
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\csi.rsp
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\System.AppContext.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\vbc.exe
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\vbc.exe.config
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\vbc.rsp
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\VBCSCompiler.exe
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\Antlr3.Runtime.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\EntityFramework.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\System.Web.Helpers.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\System.Web.Optimization.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\System.Web.Razor.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\WebGrease.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\EntityFramework.xml
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\System.Web.Helpers.xml
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.xml
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\System.Web.Optimization.xml
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\System.Web.Razor.xml
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.xml
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.xml
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.xml
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\Antlr3.Runtime.pdb
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csproj.AssemblyReference.cache
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csproj.CoreCompileInputs.cache
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.dll
+C:\Users\ichsa\Downloads\Compressed\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.pdb
